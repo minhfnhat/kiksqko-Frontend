@@ -1,0 +1,91 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "desired_outcome": "Enhanced work-life balance, increased productivity, financial success, and overall life satisfaction",
+        "pain_points_addressed": "Managing work and personal life efficiently, improving productivity, reducing stress, and achieving a balanced life",
+        "subtitle": "Discover how Worklife helps you solve the pain points of managing work and personal life effectively, boosting productivity and enhancing life quality. Our unique approach brings you closer to achieving financial success and a balanced life.",
+        "title": "Optimize Your Work-Life Balance with Worklife",
+        "unique_features": "Innovative integration of work management and life quality tools, personalized financial insights, and holistic user experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife.",
+        "title": "Elevate Your Workday"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Workday",
+  "subtitle": "Discover tools and tips to enhance productivity and balance in your worklife."
+}
